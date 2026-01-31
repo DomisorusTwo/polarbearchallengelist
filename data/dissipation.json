@@ -1,1 +1,14 @@
-
+{
+    "id": 132481270,
+    "name": "Dissipation",
+    "author": "AnomalyGMD",
+    "creators": ["AnomalyGMD"],
+    "verifier": "AnomalyGMD",
+    "verification": "https://youtu.be/vzQdqZHF0lE",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+        }
+    ]
+}
