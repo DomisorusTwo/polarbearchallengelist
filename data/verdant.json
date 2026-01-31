@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "AnomalyGMD",
+            "link": "https://www.youtube.com/watch?v=SP006W6ivoQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
